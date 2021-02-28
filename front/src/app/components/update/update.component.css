@@ -1,0 +1,33 @@
+form {
+  width: 70%;
+  margin: 2rem auto 0 auto;
+  text-align: center;
+}
+
+.data-finalizar {
+  text-align: start;
+}
+
+h1 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 3rem;
+  color: rgb(104, 100, 100);
+}
+
+.form {
+  width: 100%;
+}
+
+.buttons {
+  width: 100%;
+  text-align: start;
+}
+
+button {
+  width: 100%;
+  margin-right: 0.5rem;
+  margin-top: 0.3rem;
+  padding-right: 2rem;
+  padding-left: 2rem;
+}
